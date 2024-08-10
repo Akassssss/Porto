@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ProfileCard from './components/ProfileCard';
+import ProfileCard from '../components/ProfileCard';
 import profileImg from '../assets/profile.jpg';
 
 function Home() {
