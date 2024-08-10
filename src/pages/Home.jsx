@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import ProfileCard from '../components/profilecard';
-import profileImg from '../assets/profile.jpg'; // Impor foto
+import ProfileCard from './components/profilecard';
+import profileImg from './assets/profile.jpg'; // Impor foto
 
 function Home() {
   const [profile] = useState({
