@@ -1,6 +1,5 @@
 import React from 'react';
-import profileImg from '../assets/profile.jpg'; 
-import { useTheme } from '../context/ThemeContext';
+
 
 
 function ProfileCard({ name, idNumber, photo, hobbies }) {
